@@ -1,6 +1,4 @@
-# Building Your Challenge
-
-The purpose of this directory is to provide a reproducible way of rebuilding your challenge.
+# Building This Challenge
 
 1) Get a 24-bit color depth bmp file of your flag (AtHack_BMPImage.bmp) (24 bit necessary for arss software)
 2) Download 'The ARSS' (https://arss.sourceforge.net/index.shtml) Audio synthesis software.
