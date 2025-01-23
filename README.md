@@ -1,6 +1,6 @@
-# Chall - Audacious AI
+# Chall - Audacious Tunes
 
-> Here's a .wav file of Jester's voice we found while digging around. We aren't sure what to do with it but perhaps you could find some more information if you had a listen.
+> Here's a .wav file we found while digging around Jester's hard drives, it Appears to be a snippet from his "World Domination" playlist however something doesn't seem right... We aren't sure what to do with it but perhaps you could find some more information if you had a listen.
 
 ## Type
 
