@@ -1,0 +1,26 @@
+name: "Audacious Tunes"
+author: "Boisghur"
+category: Stegano
+description: |
+  Here's a .wav file we found while digging around Jester's hard drives, it appears to be a snippet from his "World Domination" playlist however something doesn't seem right...
+  We aren't sure what to do with it but perhaps you could find some more information if you had a listen.
+
+value: 0
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{D3COD3-TH1S}"
+    data: "case_insensitive"
+
+
+tags:
+  - beginner
+
+files:
+    - audacious-tunes.wav
+
+state: visible
+
+version: "0.1"
