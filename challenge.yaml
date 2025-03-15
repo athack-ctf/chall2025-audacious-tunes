@@ -19,7 +19,7 @@ tags:
   - beginner
 
 files:
-    - audacious-tunes.wav
+    - offline-artifacts/audacious-tunes.wav
 
 state: visible
 
