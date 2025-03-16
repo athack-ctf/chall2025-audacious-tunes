@@ -1,22 +1,43 @@
-# Chall - Audacious Tunes
+# @HACK 2025: Audacious Tunes
 
-> A simple audio-steganography challenge.
+> Authored by [Boisghur](https://github.com/boisghur).
 
-## Type
+- **Category**: `Stegano`
+- **Value**: `50 points`
+- **Tags**: `beginner`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Here's a .wav file we found while digging around Jester's hard drives, it appears to be a snippet from his "World Domination" playlist however something doesn't seem right...
+> We aren't sure what to do with it but perhaps you could find some more information if you had a listen.
+> 
 
-## Designer
+## Files
+- **[Download: audacious-tunes.wav](https://github.com/athack-ctf/chall2025-audacious-tunes/raw/refs/heads/main/offline-artifacts/audacious-tunes.wav)**
 
-- Boisghur Shishani
+## Reveal Flag
 
-## Description
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-A simple audio-steganography challenge. My intentions for this challenge were to further the story, as it seems to revolve around Jester's voice with the grand reveal at the end of the film, while also creating a challenge geared towards beginner/intermediate level @hack members. The main challenge I foresee members encountering with my challenge is being unaware of spectogram analysis, for this reason I included a small hint in the title of the challenge: 'Audacious AI' to guide participants towards using the Audacity app, which is half the challenge complete, in my opinion.
+Did you **REALLY** try solving this challenge?
 
-**IMPORTANT:** This description will **NOT** be shared with participants.
+<details>
+<summary>
+Yes, I promise!
+</summary>
 
-## Category
+Flag: `ATHACKCTF{D3COD3-TH1S}`
 
-- `stegano`
+</details>
+</details>
+
+
+---
+
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
+
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
